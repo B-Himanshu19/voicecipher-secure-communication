@@ -64,14 +64,24 @@ Open your browser or API client and connect to the provided local URL.
 
 
 ## How It Works 🔍
- **Backend-Driven Processing:** Audio is handled by backend services to ensure data privacy and control.
- **Transformer.js Integration:** Whisper models are leveraged for speech-to-text processing.
- **Secure Data Flow:** End-to-end encryption ensures safe data storage and transmission.
- **Extensible Backend Architecture:** The pipeline is designed for production-grade deployment, scalable APIs, and easy integration.
+Backend-Driven Processing:
+Audio files are handled and processed on secure backend servers to maintain data privacy, compliance, and full control over the processing pipeline. 🔒
 
- **VoiceCipher uses** **[transformers.js](https://cdn.jsdelivr.net/npm/@xenova/transformers)** to run the Whisper model for speech-to-text conversion. Here's a brief explanation:
- **Transformer.js**: This library is used to interface with the Whisper model, enabling speech recognition directly in the browser. 📊
- **Static Execution**: Unlike many ML models that rely on WebAssembly for execution, Whisper runs statically without WebAssembly. This approach simplifies deployment and ensures compatibility across different environments. ⚙️
+Transformer.js Integration:
+Uses transformers.js library to run Whisper models for real-time speech-to-text conversion within backend services. 🧠
+
+Static Execution (No WebAssembly Dependency):
+The Whisper model is executed without WebAssembly, simplifying deployment and improving cross-platform compatibility. ⚙️
+
+Secure Data Flow:
+Implements encryption for secure data transmission and storage, ensuring end-to-end protection of sensitive audio data. 🔐
+
+Extensible Backend Architecture:
+Clean modular design allows for easy scaling, microservice integration, and deployment across multiple environments (cloud, on-premise, edge devices). 🏗️
+
+Payment System Integration Ready:
+The architecture can be directly adapted for secure KYC, payment verification, fraud detection, and identity management workflows. 💳
+
 
 
 
