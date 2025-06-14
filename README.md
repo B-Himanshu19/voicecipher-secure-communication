@@ -22,7 +22,6 @@ To get started with VoiceCipher Secure Backend, follow these steps:
 
 1. **Clone the Repository**
 
-bash
 ```bash
 git clone https://github.com/B-Himanshu19/voicecipher-secure-communication.git
 ```
