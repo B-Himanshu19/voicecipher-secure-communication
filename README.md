@@ -95,6 +95,7 @@ Open your browser or API client and connect to the provided local URL.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact 📫
-Himanshu Bhatraj
-📧[(https://www.linkedin.com/in/himanshubhatraj/)]
-For any questions or contributions, please contact [9110770721](mailto: himanshu.b1902@gmail.com).
+- **Himanshu Bhatraj**
+- **📧[https://www.linkedin.com/in/himanshubhatraj/]**
+
+- For any questions or contributions, please contact **[9110770721]** **(mailto: himanshu.b1902@gmail.com).**
