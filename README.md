@@ -64,15 +64,13 @@ Open your browser or API client and connect to the provided local URL.
 
 
 ## How It Works 🔍
--- User-Friendly Interface: Clean and intuitive design for a seamless experience. 🎨  
--- Flexible Input Options: Transcribe from URLs, file uploads, or direct recordings. 🔗📁🎤  
--- Speech-to-Text Transcription: Convert your voice recordings into text using state-of-the-art ML models. 🧠  
--- Secure voice data pipeline: Ensures all audio data is processed and transmitted with encryption for end-to-end security. 🔒  
--- Modular backend architecture: Clean separation of concerns allows easy extension, scaling, and system upgrades. 🏗️  
--- Audio file ingestion & transcription: Handles multiple input formats and seamlessly converts speech to text. 🎙️📝  
--- Stateless backend design: Highly scalable design that allows distributed deployment without session dependencies. ⚙️  
--- Secure storage & transmission design: Protects sensitive data both at rest and during transmission. 🔐  
--- Ready for integration into payment or identity verification systems: Can be adapted for secure KYC, payment verification, or fraud detection modules. 💳🔎
+
+-- **Backend-Driven Processing:** Audio files are securely handled and processed on the backend to ensure privacy, compliance, and full control. 🔒  
+-- **Transformer.js Integration:** Uses the transformers.js library to run Whisper models for real-time speech-to-text conversion within backend services. 🧠  
+-- **Static Execution (No WebAssembly Dependency):** Executes the Whisper model without relying on WebAssembly, making deployment simpler and highly portable across different platforms. ⚙️  
+-- **Secure Data Flow:** Ensures end-to-end encryption for safe transmission and storage of sensitive audio data. 🔐  
+-- **Extensible Backend Architecture:** Modular design allows for scalable deployment, easy microservice integration, and multi-environment support (cloud, on-premise, edge devices). 🏗️  
+-- **Payment System Integration Ready:** Can be extended into secure payment verification, KYC, fraud detection, and identity management systems. 💳
 
 
 
