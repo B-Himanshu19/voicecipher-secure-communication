@@ -64,14 +64,14 @@ Open your browser or API client and connect to the provided local URL.
 
 
 ## How It Works 🔍
--- **Backend-Driven Processing:** Audio is handled by backend services to ensure data privacy and control.
--- **Transformer.js Integration:** Whisper models are leveraged for speech-to-text processing.
--- **Secure Data Flow:** End-to-end encryption ensures safe data storage and transmission.
--- **Extensible Backend Architecture:** The pipeline is designed for production-grade deployment, scalable APIs, and easy integration.
+ **Backend-Driven Processing:** Audio is handled by backend services to ensure data privacy and control.
+ **Transformer.js Integration:** Whisper models are leveraged for speech-to-text processing.
+ **Secure Data Flow:** End-to-end encryption ensures safe data storage and transmission.
+ **Extensible Backend Architecture:** The pipeline is designed for production-grade deployment, scalable APIs, and easy integration.
 
--- **VoiceCipher uses** **[transformers.js](https://cdn.jsdelivr.net/npm/@xenova/transformers)** to run the Whisper model for speech-to-text conversion. Here's a brief explanation:
--- **Transformer.js**: This library is used to interface with the Whisper model, enabling speech recognition directly in the browser. 📊
--- **Static Execution**: Unlike many ML models that rely on WebAssembly for execution, Whisper runs statically without WebAssembly. This approach simplifies deployment and ensures compatibility across different environments. ⚙️
+ **VoiceCipher uses** **[transformers.js](https://cdn.jsdelivr.net/npm/@xenova/transformers)** to run the Whisper model for speech-to-text conversion. Here's a brief explanation:
+ **Transformer.js**: This library is used to interface with the Whisper model, enabling speech recognition directly in the browser. 📊
+ **Static Execution**: Unlike many ML models that rely on WebAssembly for execution, Whisper runs statically without WebAssembly. This approach simplifies deployment and ensures compatibility across different environments. ⚙️
 
 
 
