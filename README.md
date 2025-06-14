@@ -44,8 +44,9 @@ npm start
 ```
 
 5. **Access Locally**
+```bash
 Open your browser or API client and connect to the provided local URL.
-
+```
 
 ## Usage 🛠️
 1. **Choose Your Input Method**:
