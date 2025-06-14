@@ -26,7 +26,7 @@ bash
 ```bash
 git clone https://github.com/B-Himanshu19/voicecipher-secure-communication.git
 ```
-2. **Navigate to the Project Directory
+2. **Navigate to the Project Directory**
 
 ```bash
 cd voicecipher-secure-communication
