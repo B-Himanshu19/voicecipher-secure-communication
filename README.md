@@ -82,14 +82,14 @@ Open your browser or API client and connect to the provided local URL.
 
 
 ## Future Extensions 🚧
-1.Scalable deployment using Docker & Kubernetes.
-2.Secure API Gateway integrations.
-3.Multilingual transcription capabilities.
-4.Microservice design for real-time streaming transcription.
-5.Compliance-ready design for payment systems (PCI-DSS alignment).
-6.Adding support for audio clips longer than 20 seconds for all devices.
-7.Adding a multilingual model to transcribe various languages, like Telugu. 🌍
 
+- **Scalable Deployment:** Easily deployable using Docker containers and Kubernetes orchestration for horizontal scaling. 📦⚙️  
+- **Secure API Gateway Integrations:** Capable of integrating with secure API Gateways for external system interoperability and traffic management. 🔐🌐  
+- **Multilingual Transcription Capabilities:** Extendable to support multiple languages beyond English, enabling global use cases. 🌎🗣️  
+- **Microservice Design for Streaming:** Real-time transcription pipeline using microservice architecture for low-latency processing. ⏱️🧩  
+- **Compliance-Ready (PCI-DSS):** Architecture designed for integration with payment systems, ensuring regulatory and security compliance. 💳📑  
+- **Extended Audio Duration:** Ability to process longer audio clips, removing the current 20-second limitation. ⏳🎙️  
+- **Regional Language Support:** Expand transcription models to handle regional languages like Telugu, Hindi, etc. 🌍🗣️
 
 ## License 📝
 This project is licensed under the MIT License. See the LICENSE file for details.
